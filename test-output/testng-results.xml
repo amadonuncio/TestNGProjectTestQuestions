@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4525" started-at="2022-07-01T09:30:08 EDT" finished-at="2022-07-01T09:30:12 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4525" started-at="2022-07-01T09:30:08 EDT" finished-at="2022-07-01T09:30:12 EDT">
+      <class name="test.Test3">
+        <test-method status="PASS" signature="beforeRun()[pri:0, instance:test.Test3@4d50efb8]" name="beforeRun" is-config="true" duration-ms="1969" started-at="2022-07-01T09:30:08 EDT" finished-at="2022-07-01T09:30:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeRun -->
+        <test-method status="PASS" signature="validateMonthDropDownInDueDateSectionHasAll12Months()[pri:0, instance:test.Test3@4d50efb8]" name="validateMonthDropDownInDueDateSectionHasAll12Months" duration-ms="1899" started-at="2022-07-01T09:30:10 EDT" finished-at="2022-07-01T09:30:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMonthDropDownInDueDateSectionHasAll12Months -->
+        <test-method status="PASS" signature="afterRun()[pri:0, instance:test.Test3@4d50efb8]" name="afterRun" is-config="true" duration-ms="635" started-at="2022-07-01T09:30:11 EDT" finished-at="2022-07-01T09:30:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterRun -->
+      </class> <!-- test.Test3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
